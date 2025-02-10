@@ -28,8 +28,16 @@ config
 ## Installation
 
 1.  **Prerequisites:**
+    
     *   Go (version 1.18 or later recommended)
     *   MongoDB server running (either locally or remotely)
+
+2. **Clone/Download Repo:**
+    
+    ```bash
+    git clone https://github.com/nick-popovic/mon-go.git
+    cd mon-go
+    ```
 
 
 2. **Build (Optional):**
